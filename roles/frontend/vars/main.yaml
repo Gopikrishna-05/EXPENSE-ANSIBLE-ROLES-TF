@@ -1,3 +1,3 @@
-BACKEND_HOST: gopikrishna-devops.online
+BACKEND_HOST: "backend.app-{{ ENVIRONMENT }}.gopikrishna-devops.online"
 APP_LOCAION: /usr/share/nginx/html
 COMPONENT: frontend
